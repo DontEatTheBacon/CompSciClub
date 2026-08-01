@@ -14,5 +14,5 @@ My goal with this club is to give everyone the opportunity to develop or put the
 
 I play the piano and my favorite composer to play is Chopin.
 
-## Contributers
+## Contributors
 [Andrew Valentine](andrew-valentine.md)

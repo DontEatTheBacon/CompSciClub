@@ -8,4 +8,4 @@
 
 ## Fun Fact
 
-## Contributers
+## Contributors
