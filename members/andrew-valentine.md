@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello, I am excited to welcome you to the Software Engineering club! I look forward to this year and hope to help others find their interest in this field. Experienced or not, I know there is something for everyone to take away from this club!
+Hello, I am excited to welcome you to the Computer Science club! I look forward to this year and hope to help others find their interest in this field. Experienced or not, I know there is something for everyone to take away from this club!
 
 ## Goals
 
