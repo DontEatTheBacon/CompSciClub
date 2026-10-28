@@ -8,8 +8,8 @@
 
 | Find someone who…                  | Their name       | Their fun fact                           |
 | ---------------------------------- | ---------------- | ---------------------------------------- |
-| Is a club officer                  | vfdgtfgtrgtregt  |                                          |
-| Is a club advisor                  |                  |                                          |
+| Is a club officer                  | Andrew           | Albert einstein from what I hear         |
+| Is a club advisor                  | Ohmier Khan      | Born outside of the US                   |
 | Is a Computer Science major        |                  |                                          |
 | Is an Engineering major (any kind) |                  |                                          |
 | Is not a STEM major                |                  |                                          |
